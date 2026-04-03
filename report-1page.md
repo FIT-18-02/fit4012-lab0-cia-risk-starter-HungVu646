@@ -14,19 +14,44 @@
 - Hoàn thiện bài làm trong repo và commit/push lên GitHub.
 
 ### 3. Kết quả chính
-**Assets:**
-- 
-- 
+Assets:
+- Cơ sở dữ liệu điểm sinh viên
+- Tài khoản đăng nhập giảng viên/admin
+- Hệ thống máy chủ
+CIA mapping:
+- Sự cố A → Confidentiality
+- Sự cố B → Integrity
+- Sự cố C → Availability
+Phân tích sự cố B:
+Threat:
+- Người dùng trái phép hoặc hacker thay đổi dữ liệu điểm
+Vulnerability:
+- Phân quyền kém
+- Mật khẩu yếu
+- Không có log theo dõi
+Mitigation:
+- Áp dụng phân quyền (RBAC)
+- Mã hóa mật khẩu
+- Ghi log và giám sát hệ thống
+- Xác thực 2 lớp
 
 **CIA mapping:**
-- Sự cố A -> 
-- Sự cố B -> 
-- Sự cố C -> 
+Sự cố A → Confidentiality
+Sự cố B → Integrity
+Sự cố C → Availability
 
 **Phân tích sự cố B:**
-- Threat: 
-- Vulnerability: 
-- Mitigation: 
+Threat:
+    Người dùng trái phép hoặc hacker thay đổi dữ liệu điểm
+Vulnerability:
+    Phân quyền kém
+    Mật khẩu yếu
+    Không có log theo dõi
+Mitigation:
+    Áp dụng phân quyền (RBAC)
+    Mã hóa mật khẩu
+    Ghi log và giám sát hệ thống
+    Xác thực 2 lớp
 
 ### 4. Kết luận ngắn
-(4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
+Qua bài lab này, em hiểu rõ hơn về ba yếu tố trong mô hình CIA gồm Confidentiality, Integrity và Availability. Việc phân tích từng sự cố giúp em biết cách xác định rủi ro trong hệ thống thông tin. Em nhận thấy rằng ngay cả hệ thống đơn giản như lưu điểm cũng có nhiều nguy cơ bảo mật. Phần khó nhất là phân biệt giữa threat và vulnerability. Khi phân tích, cần xác định rõ nguyên nhân và đưa ra giải pháp phù hợp. Điều này rất quan trọng khi thiết kế hệ thống an toàn.
