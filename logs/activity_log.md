@@ -14,6 +14,6 @@
 - [x] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải: không cơ
-- Cách em xử lý: làm theo trình tự của hướng dẫn
-- Điều em học được từ bài lab: CIA
+- Khó khăn gặp phải: không
+- Cách em xử lý: làm theo trình tự của bài
+- Điều em học được từ là: CIA
