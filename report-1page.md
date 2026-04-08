@@ -30,4 +30,4 @@
 - Mitigation:Áp dụng phân quyền (RBAC) , Mã hóa mật khẩu ,Ghi log và giám sát hệ thống ,Xác thực 2 lớp
 
 ### 4. Kết luận ngắn
-Qua bài lab này, em hiểu rõ hơn về ba yếu tố trong mô hình CIA gồm Confidentiality, Integrity và Availability. Việc phân tích từng sự cố giúp em biết cách xác định rủi ro trong hệ thống thông tin. Em nhận thấy rằng ngay cả hệ thống đơn giản như lưu điểm cũng có nhiều nguy cơ bảo mật. Phần khó nhất là phân biệt giữa threat và vulnerability. Khi phân tích, cần xác định rõ nguyên nhân và đưa ra giải pháp phù hợp. Điều này rất quan trọng khi thiết kế hệ thống an toàn.
+Qua bài lab này, em hiểu rõ hơn về ba yếu tố trong mô hình CIA gồm Confidentiality, Integrity và Availability. Việc phân tích từng sự cố giúp em biết cách xác định rủi ro trong hệ thống thông tin. Em nhận thấy rằng ngay cả hệ thống đơn giản như lưu điểm cũng có nhiều nguy cơ bảo mật. Phần khó nhất là phân biệt giữa threat và vulnerability. Khi phân tích, cần xác định rõ nguyên nhân và đưa ra giải pháp phù hợp. Điều này rất quan trọng khi thiết kế hệ thống an toàn bảo mật . Môn học rất cần cho người học công nghệ thông tin
