@@ -17,4 +17,4 @@
 ## Ghi chú thêm
 - Khó khăn gặp phải: không
 - Cách em xử lý: làm theo trình tự của bài
-- Điều em học được từ bài là: Em hiểu được mô hình CIA gồm bảo mật (Confidentiality), toàn vẹn (Integrity) và sẵn sàng (Availability) là ba trụ cột cốt lõi để đánh giá mức độ an toàn của một hệ thống thông tin
+- Điều em học được từ bài lab: Em hiểu được mô hình CIA gồm bảo mật (Confidentiality), toàn vẹn (Integrity) và sẵn sàng (Availability) là ba trụ cột cốt lõi để đánh giá mức độ an toàn của một hệ thống thông tin
