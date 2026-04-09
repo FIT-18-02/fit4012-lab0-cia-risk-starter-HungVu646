@@ -12,7 +12,8 @@
 - [x] 09:50 - Chỉnh sửa sau khi tự kiểm
 - [x] 09:55 - Commit lần 2
 - [x] 10:00 - Push repo và kiểm tra link nộp
-
+- [x] 15:00 - Comit lần 11
+- [x] 15:05 - Push repo và kiểm tra link nộp
 ## Ghi chú thêm
 - Khó khăn gặp phải: không
 - Cách em xử lý: làm theo trình tự của bài
