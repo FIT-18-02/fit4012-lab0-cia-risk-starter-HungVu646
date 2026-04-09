@@ -3,8 +3,8 @@
 
 ### 1. Mục tiêu bài lab
 - Nhận diện tài sản cần bảo vệ trong một hệ thống thông tin đơn giản.
-- Phân biệt Confidentiality, Integrity, Availability.
-- Xác định threat, vulnerability, mitigation.
+- Phân biệt Confidentiality, Integrity, Availability(CIA).
+- xác định threat, vulnerability và đề xuất mitigation phù hợp.
 - Thực hành workflow GitHub cơ bản để nhận và nộp bài.
 
 ### 2. Cách làm
@@ -14,6 +14,7 @@
 - Hoàn thiện bài làm trong repo và commit/push lên GitHub.
 
 ### 3. Kết quả chính
+
 **Assets:**
 - Cơ sở dữ liệu điểm sinh viên
 - Tài khoản đăng nhập giảng viên/admin
@@ -26,8 +27,8 @@
 
 **Phân tích sự cố B:**
 - Threat: Người dùng trái phép hoặc hacker thay đổi dữ liệu điểm
-- Vulnerability:Phân quyền kém ,Mật khẩu yếu ,Không có log theo dõi
-- Mitigation:Áp dụng phân quyền (RBAC) , Mã hóa mật khẩu ,Ghi log và giám sát hệ thống ,Xác thực 2 lớp
+- Vulnerability: Phân quyền kém ,Mật khẩu yếu ,Không có log theo dõi
+- Mitigation: Áp dụng phân quyền (RBAC) , Mã hóa mật khẩu ,Ghi log và giám sát hệ thống ,Xác thực 2 lớp
 
 ### 4. Kết luận ngắn
 
